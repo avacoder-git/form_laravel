@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cms/.idea/cms.iml" filepath="$PROJECT_DIR$/../cms/.idea/cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../form/.idea/form.iml" filepath="$PROJECT_DIR$/../form/.idea/form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/form_laravel.iml" filepath="$PROJECT_DIR$/.idea/form_laravel.iml" />
+    </modules>
+  </component>
+</project>
